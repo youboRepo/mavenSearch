@@ -225,7 +225,8 @@
 		</dict>
 	</array>
 	<key>readme</key>
-	<string></string>
+	<string>搜索maven jar包
+数据源为国内镜像，可能会有一周左右的延迟</string>
 	<key>uidata</key>
 	<dict>
 		<key>079A122C-0A16-420E-9BD1-88D1A99D7F9B</key>
@@ -259,6 +260,10 @@
 	</dict>
 	<key>userconfigurationconfig</key>
 	<array/>
+	<key>variablesdontexport</key>
+	<array/>
+	<key>version</key>
+	<string>1.0</string>
 	<key>webaddress</key>
 	<string></string>
 </dict>
